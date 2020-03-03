@@ -1,0 +1,4 @@
+---
+transmission_password: "testing123"
+base_image: ubuntu
+dockerfile_dir: /var/cache/docker_files/downloader/
